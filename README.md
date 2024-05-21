@@ -74,7 +74,7 @@ This project is licensed under the MIT License.
 ## Acknowledgements
 
 - The app uses Meta's [Audiocraft](https://github.com/facebookresearch/audiocraft) library.
-- Special thanks to the developers of the [MusicGen model](https://github.com/facebookresearch/audiocraft/tree/main/musicgen).
+- Special thanks to the developers of the [MusicGen model](https://github.com/facebookresearch/audiocraft/blob/main/docs/MUSICGEN.md).
 
 ---
 
