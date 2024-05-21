@@ -43,6 +43,8 @@ This repository contains a Streamlit-based web application that generates music 
 
 5. **Click "Generate Music"** to create and listen to your music.
 
+<img width="656" alt="Screenshot 2024-05-21 at 6 12 32 PM" src="https://github.com/langchain-tech/Musicgen-Text-to-Music/assets/100914015/da41fbea-6565-4ac7-a78f-559666ff4b6f">
+
 ## Example
 
 1. Enter a description like "80s pop track with bassy drums and synth".
